@@ -1,3 +1,5 @@
+"" Note: this code is just practice to see what the output would be like. They are not as good as SPSS output; so, the output generated from SPSS is better and uploaded ""
+
 library(haven)
 data <- read_sav("C:/Bansal Data/Drishti Data/UDM/Winter 2022/DATA 5070/Asignacions/Asignacion1/saldataassignment1.sav")
 head(data)
