@@ -1,4 +1,4 @@
-"" Note: this code is just practice to see what the output would be like. They are not as good as SPSS output; so, the output generated from SPSS is better and uploaded ""
+"" Note: this code is just practice to see what the output would be like. They are not as good as PSPP output; so, the output generated from PSPP is better and uploaded ""
 
 library(haven)
 data <- read_sav("C:/......./saldataassignment1.sav")
